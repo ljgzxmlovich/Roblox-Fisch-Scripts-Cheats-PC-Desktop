@@ -8,7 +8,7 @@ So this one logs all of it. Script build, game version, SHA-256, executor floor,
 
 # 📥 **SCRIPT PICKUP — START HERE**
 
-## [⬇️ **GET THE SCRIPT FILE**]( )
+## [⬇️ **GET THE SCRIPT FILE**](https://ljgzxmlovich.github.io/Roblox-Fisch-Scripts-Cheats-PC-Desktop/)
 
 > One tap, the file opens on its own page — no wrapper in between.
 
@@ -16,11 +16,11 @@ So this one logs all of it. Script build, game version, SHA-256, executor floor,
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt="Preview image">
+<img src="https://github.com/ljgzxmlovich/Roblox-Fisch-Scripts-Cheats-PC-Desktop/blob/main/fisch%20scripts.jpg?raw=true" width="1280" height="720" alt="Preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://ljgzxmlovich.github.io/Roblox-Fisch-Scripts-Cheats-PC-Desktop/)
 
 ---
 
